@@ -2,7 +2,7 @@
 - 👀 I’m interested in webapps and software
 - 🌱 I’m currently learning @ 42
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me : info@ericdelplancq.com
+- 📫 How to reach me : hello@erdelp.com
 
 <!---
 erdelp/erdelp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
