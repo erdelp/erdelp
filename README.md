@@ -1,5 +1,5 @@
 # About me
-- 👋 Hi, I’m Eric
+- 👋 Hello, I’m Eric
 - 🌱 Currently learning @ 42 Paris
 - 💞️ Looking for an internship
 - 📫 How to reach me : hello@erdelp.com
