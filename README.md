@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Eric
-- 👀 I’m interested in 3d rendering and VFX Pipelines
 - 🌱 I’m currently learning @ 42 Paris
 - 💞️ I’m looking for an internship
 - 📫 How to reach me : hello@erdelp.com
