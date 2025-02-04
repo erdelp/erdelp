@@ -1,7 +1,7 @@
 # About me
 - 👋 Hi, I’m Eric
-- 🌱 I’m currently learning @ 42 Paris
-- 💞️ I’m looking for an internship
+- 🌱 Currently learning @ 42 Paris
+- 💞️ Looking for an internship
 - 📫 How to reach me : hello@erdelp.com
 
 # Language and skills
