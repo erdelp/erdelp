@@ -2,7 +2,7 @@
 - 👋 Hello, I’m Eric
 - 🌱 Currently learning @ 42 Paris
 - 💞️ Looking for an internship
-- 📫 How to reach me : hello@erdelp.com
+- 📫 Reach me : hello@erdelp.com
 
 # Language and skills
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,docker,bash,git,github,blender,premiere,photoshop)
