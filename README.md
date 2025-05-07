@@ -5,7 +5,7 @@
 - 📫 Reach me : hello@erdelp.com
 
 # Language and skills
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,docker,bash,git,github,blender,premiere,photoshop)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,docker,bash,git,github,blender,premiere,photoshop,maya)
 
 <!---
 erdelp/erdelp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
