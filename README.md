@@ -1,6 +1,7 @@
 # 👋 Hello, I’m Eric
 
-# About me
+## About
+
 - 📍 I live in Paris
 - 🌱 Currently learning @ 42 Paris
 - 💼 Looking for an internship
