@@ -13,7 +13,7 @@
 ![Programming Languages](https://skillicons.dev/icons?i=c,cpp,js,ts,python)
 
 ### Full Stack Development
-![Full Stack Development](https://skillicons.dev/icons?i=html,css,tailwind,nodejs,nextjs,react)
+![Full Stack Development](https://skillicons.dev/icons?i=html,css,tailwind,nodejs,nextjs,react,sql)
 
 
 ### Cloud Services and DevOps
