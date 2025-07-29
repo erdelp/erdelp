@@ -17,7 +17,7 @@
 
 
 ### Cloud Services and DevOps
-![Cloud Services and DevOps](https://skillicons.dev/icons?i=docker,git,bash,github)
+![Cloud Services and DevOps](https://skillicons.dev/icons?i=aws,docker,git,bash,github)
 
 ### Creative Software
 ![Creative Software](https://skillicons.dev/icons?i=blender,premiere,photoshop)
