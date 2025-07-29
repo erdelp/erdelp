@@ -1,13 +1,22 @@
+# 👋 Hello, I’m Eric
+
 # About me
-- 👋 Hello, I’m Eric
+- 📍 I live in Paris
 - 🌱 Currently learning @ 42 Paris
 - 💼 Looking for an internship
 - 📫 Reach me : hello@erdelp.com
 
-# Language and skills
+## Skills 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,docker,git,nodejs,bash,github,blender,premiere,photoshop)](https://skillicons.dev)
-<!---
-erdelp/erdelp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Programming Languages
+![Programming Languages](https://skillicons.dev/icons?i=c,cpp,js,ts,cs)
+
+### Full Stack Development
+![Full Stack Development](https://skillicons.dev/icons?i=html,css,nodejs,react)
+
+
+### Cloud Services and DevOps
+![Cloud Services and DevOps](https://skillicons.dev/icons?i=docker,git,bash,github)
+
+### Creative Software
+![Creative Software](https://skillicons.dev/icons?i=blender,premiere,photoshop)
