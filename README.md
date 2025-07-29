@@ -10,7 +10,7 @@
 ## Skills 
 
 ### Programming Languages
-![Programming Languages](https://skillicons.dev/icons?i=c,cpp,js,ts,cs)
+![Programming Languages](https://skillicons.dev/icons?i=c,cpp,js,ts)
 
 ### Full Stack Development
 ![Full Stack Development](https://skillicons.dev/icons?i=html,css,nodejs,react)
