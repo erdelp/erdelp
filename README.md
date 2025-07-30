@@ -12,4 +12,4 @@
 ### Cloud Services and DevOps
 [![Cloud Services and DevOps](https://skillicons.dev/icons?i=aws,azure,docker,git,bash,github)](https://ericdelplancq.com)
 ### Creative Software
-[![Creative Software](https://skillicons.dev/icons?i=maya,blender,premiere,photoshop)](https://ericdelplancq.com)
+[![Creative Software](https://skillicons.dev/icons?i=blender,premiere,photoshop)](https://ericdelplancq.com)
