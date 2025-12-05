@@ -8,7 +8,7 @@
 ### Programming Languages
 [![Programming Languages](https://skillicons.dev/icons?i=c,cpp,js,ts,python)](https://ericdelplancq.com)
 ### Full Stack Development
-[![Full Stack Development](https://skillicons.dev/icons?i=html,css,tailwind,nodejs,nextjs,react,sql)](https://ericdelplancq.com)
+[![Full Stack Development](https://skillicons.dev/icons?i=html,css,tailwind,nodejs,nextjs,react,postgresql)](https://ericdelplancq.com)
 ### Cloud Services and DevOps
 [![Cloud Services and DevOps](https://skillicons.dev/icons?i=aws,azure,docker,git,bash,github)](https://ericdelplancq.com)
 ### Creative Software
