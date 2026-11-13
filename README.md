@@ -2,7 +2,7 @@
 ## About
 - 📍 I live in Paris
 - 🌱 Currently learning @ 42 Paris
-- 💼 Looking for an internship
+- 💼 Internet @ LBR
 - 📫 Reach me : hello@erdelp.com
 ## Skills 
 ### Programming Languages
